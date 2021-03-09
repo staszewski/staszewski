@@ -7,6 +7,10 @@
     <style type="text/css">
         #cloud {
         animation: float 5s linear infinite;
+        font-size: 40px;
+        }
+        #background {
+        background-color: #FFD9E0;
         }
         @keyframes float {
         0% {
@@ -23,6 +27,6 @@
         }
         }
     </style>
-    <image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stylized_uwu_emoticon.svg/800px-Stylized_uwu_emoticon.svg.png"  width="800" id="cloud"/>
+        <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" class="welcome-emoji" id="cloud">( ´･ω･)人(・ω・｀ )</text>
 </svg>
 
