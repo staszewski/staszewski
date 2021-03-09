@@ -27,6 +27,11 @@
         }
         }
     </style>
+    <defs>
+        <clipPath id="clip">
+            <rect width="1500px" height="500px" rx="6" fill="white"/>
+        </clipPath>
+    </defs>
         <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" class="welcome-emoji" id="cloud">( ´･ω･)人(・ω・｀ )</text>
 </svg>
 
