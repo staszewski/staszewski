@@ -1,1 +1,1 @@
-[![Banner](https://raw.githubusercontent.com/staszewski/staszewski/master/banner.svg)](https://staszewski.me)
+[![Banner](https://raw.githubusercontent.com/staszewski/staszewski/banner/banner.svg)](https://staszewski.me)
