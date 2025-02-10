@@ -13,6 +13,6 @@ Beyond coding, I enjoy staying ahead of emerging tech trends, mentoring develope
 💡 Currently working on **[UMIE_datasets](https://github.com/TheLion-ai/UMIE_datasets)**
 
 ## 📫 Let's Connect!  
-- 🌍 [GitHub](https://github.com/staszewski)  
+- 📝 [Webpage](https://staszewski.xyz)  
 - 💼 [LinkedIn](https://linkedin.com/in/kamil-staszewski/)  
 - 📧 [Email](mailto:kamilstaszewski95@gmail.com)  
