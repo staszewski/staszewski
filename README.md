@@ -1,18 +1,32 @@
-# 👋 Hi, I'm Kamil Staszewski!  
+<h1 align="center">Kamil Staszewski</h1>
 
-Software Engineer | AI & Cloud Enthusiast | JavaScript & TypeScript Expert  
+<p align="center">
+  <b>Software Engineer · Embedded Systems · Robotics · Autonomous Systems</b>
+</p>
 
-## 👨‍💻 About Me  
-I'm a **problem solver at heart**, passionate about building scalable and high-performance applications. With extensive experience in **AI backends** and **eCommerce platforms**, I specialize in crafting intelligent, cloud-native solutions that drive business success.  
+<p align="center">
+  Building software from cloud systems down to real-time flight control.
+</p>
 
-My expertise spans **backend development, cloud architectures (Google, AWS & Azure), and modern web technologies**. I thrive in fast-paced environments, bridging the gap between business needs and technical execution while ensuring efficiency, scalability, and clean code.  
+<p align="center">
+  <a href="https://staszewski.xyz">Website</a> ·
+  <a href="https://linkedin.com/in/kamil-staszewski/">LinkedIn</a> ·
+  <a href="mailto:kamilstaszewski95@gmail.com">Email</a>
+</p>
+
+---
+
+Software engineer with a background in backend systems, cloud, and AI, currently focused on **embedded systems, robotics, flight control, and autonomous systems**.
+
+I enjoy working where software meets the physical world — real-time control loops, sensors, estimation, hardware integration, and autonomous behavior.
+
+## What I work on
+
+- [StampFly Rust](https://github.com/staszewski/stampfly-rust) — embedded Rust flight-control stack for a micro quadcopter
+- **Flight control & GNC** — attitude estimation, sensor fusion, control systems
+- **Embedded systems** — Rust, ESP32, sensors, real-time software
+- **Backend & cloud** — TypeScript, Python, distributed systems, AWS/GCP/Azure
+- **AI systems** — applied AI and data-driven applications
 
 Beyond coding, I enjoy staying ahead of emerging tech trends, mentoring developers, and participating in hackathons—where I even secured a **winning title at Hack4Law**!  
 
-## 🌟 Open Source Contributions  
-💡 Currently working on **[UMIE_datasets](https://github.com/TheLion-ai/UMIE_datasets)**
-
-## 📫 Let's Connect!  
-- 📝 [Webpage](https://staszewski.xyz)  
-- 💼 [LinkedIn](https://linkedin.com/in/kamil-staszewski/)  
-- 📧 [Email](mailto:kamilstaszewski95@gmail.com)  
